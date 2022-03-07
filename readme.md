@@ -5,6 +5,10 @@
 
 Pug-dependencies creates and returns an array of all includes and extends of a pug file.
 
+## Fork
+
+This forked version provides updated dependencies.
+
 ## Prerequisites
 
 node.js >= 6.9.0
