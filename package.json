@@ -1,6 +1,6 @@
 {
-  "name": "pug-dependencies",
-  "version": "2.1.0",
+  "name": "@hylmar/pug-dependencies",
+  "version": "2.0.0",
   "description": "Resolve dependencies of one pug file",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
@@ -22,9 +22,9 @@
   "author": "Daniel Pfisterer (info@daniel-pfisterer.de)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pure180/pug-dependencies/issues"
+    "url": "https://github.com/hylmar/pug-dependencies/issues"
   },
-  "homepage": "https://github.com/pure180/pug-dependencies#readme",
+  "homepage": "https://github.com/hylmar/pug-dependencies#readme",
   "devDependencies": {
     "tape": "^5.5.2"
   },
