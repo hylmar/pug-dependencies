@@ -1,6 +1,6 @@
 {
   "name": "@hylmar/pug-dependencies",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "Resolve dependencies of one pug file",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pure180/pug-dependencies.git"
+    "url": "git+https://github.com/hylmar/pug-dependencies.git"
   },
   "keywords": [
     "pug",
